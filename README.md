@@ -1,4 +1,4 @@
-Programa Orienta a Objetos realizado con C++ para la asignatura "PROGRAMACIÓN Y ESTRUCTURAS DE DATOS" en la Universidad de Alicante. El problema que se pretende solucionar con este progrema es:  
+Programa Orientado a Objetos realizado con C++ para la asignatura "PROGRAMACIÓN Y ESTRUCTURAS DE DATOS" en la Universidad de Alicante. El problema que se pretende solucionar con este progrema es:  
 
 En la industria de la transformación del mármol, existe un proceso que es el de rellenado de grietas, poros y fisuras.
 Una plancha de mármol cuando se extrae de la cantera tiene grietas y poros que se tienen que tapar con un producto similar al mármol en cuanto a dureza y solidez. Este producto se llama apoxi. El apoxi se aplica manualmente sobre el mármol extendiéndolo con una paleta.
